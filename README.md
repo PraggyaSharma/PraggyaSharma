@@ -6,7 +6,7 @@
 🌱 I’m currently working as a **Software Development Engineer (SDE)** at **SP+ / Metropolis**  
 🚀 Passionate about clean code, developer tooling, and real-world problem solving  
 🎓 B.E. in Electrical and Electronics Engineering from **BITS Pilani (2020–2024)**  
-💬 Ask me about: Full-Stack Development, APIs, DSA
+💬 Ask me about: Full-Stack Development, APIs, Data Structures, Algorithms
 
 ---
 
