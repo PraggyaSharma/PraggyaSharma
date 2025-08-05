@@ -10,6 +10,13 @@
 
 ---
 
+### 🧰 Languages and Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,python,js,ts,html,css,react,angular,nodejs,mysql,git,github" />
+</p>
+
+---
+
 ### 📫 Let's Connect!
 - 🌐 [LinkedIn](https://www.linkedin.com/in/praggya-sharma-8a65061a0/)
 - 🧠 [LeetCode](https://leetcode.com/u/praggyas/)
