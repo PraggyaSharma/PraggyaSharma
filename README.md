@@ -10,13 +10,6 @@
 
 ---
 
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PraggyaSharma&show_icons=true&theme=radical" alt="Praggya's GitHub stats" />
-</p>
-
----
-
 ### 📫 Let's Connect!
 - 🌐 [LinkedIn](https://www.linkedin.com/in/praggya-sharma-8a65061a0/)
 - 🧠 [LeetCode](https://leetcode.com/u/praggyas/)
